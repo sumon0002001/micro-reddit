@@ -1,3 +1,4 @@
+# rubocop:disable All
 Spring.watch(
   ".ruby-version",
   ".rbenv-vars",
