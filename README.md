@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the repo with: git clone https://github.com/sumon0002001/micro-reddit.git
 - On the terminal navigate to the project directory using cd micro-reddit/
 - run bundle install
-
+- rails db:migrate
 
 
 
